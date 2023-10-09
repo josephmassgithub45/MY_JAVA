@@ -217,3 +217,124 @@ public class MyClass {
 */
 	
 }
+
+33333333333333333333333333333333333333333333
+
+	
+
+ 
+ /*	
+ 	public static void main(String[] args) {
+ 		//JAVA IF ELSE CONDITION
+ 		int num1=10;
+ 		int num2=20;
+ 		if (num1>num2) {
+ 			System.out.println("num1 is greater than num2");
+ 		}else {
+ 			System.out.println("num2 is greater than num1");
+ 		}
+ 		
+ 		//USING THE SHORT HAND IF ELSE
+ 		int number1=10;
+ 		int number2=20;
+ 		String value=(number1>number2)?"number1 is greater":"number2 is greater";
+ 		System.out.println(value);
+ 		
+ 		
+ 		//USING THE ELSE IF 
+ 		int num=2;
+ 		if(num==1) {
+ 			System.out.println("num is 1");
+ 		}else if(num==2) {
+ 			System.out.println("num is 2");
+ 		}else if(num==3) {
+ 			System.out.println("num is 3");
+ 		}else {
+ 			System.out.println("num is not allowed");
+ 		}	
+ */
+	
+//111111111111111111111111111111111111111111111111111111111111111111111111
+
+/*
+	public static void main(String[] args) {
+	//JAVA SWITCH CASE
+		int num=2;
+		switch(num) {
+		case 1:
+			System.out.println("sunday");
+			break;
+		case 2:
+			System.out.println("monday");
+			break;
+		case 3:
+			System.out.println("tuesday");
+			break;
+		case 4:
+			System.out.println("wednesday");
+			break;
+		default:
+			System.out.println("that number is not valid");
+			break;
+		}
+ 	}
+ */
+	
+//111111111111111111111111111111111111111111111111111111111111111
+
+/*
+	public static void main(String[] args) {
+		//JAVA WHILE LOOP
+		int num1=1;
+		while(num1<=10) {
+			System.out.println(num1);
+			num1++;
+		}
+		
+		//USING THE DO WHILE
+		int num2=2;
+		do {
+			System.out.println(num2);
+			num2+=2;
+		}
+		while(num2<=10);
+	}
+*/
+	
+//111111111111111111111111111111111111111111111111111111111111111
+
+/*
+	public static void main(String[] args) {
+		//JAVA FOR LOOP
+		int num1=2;
+		for(int ctr=1;ctr<=10;ctr+=2) {
+			System.out.println(num1);
+			num1+=2;
+		}
+		
+		//USING INNER AND OUTER LOOPS
+		
+		// Outer loop
+		for (int i = 1; i <= 2; i++) {
+		System.out.println("Outer: " + i); // Executes 2 times
+		  
+		  // Inner loop
+		 for (int j = 1; j <= 3; j++) {
+		 System.out.println(" Inner: " + j); // Executes 6 times (2 * 3)
+		  		}
+		}
+		
+		//USING FOR EACH LOOP
+		//example 1
+		String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+		for (String i : cars) {
+		  System.out.println(i);
+		}
+		
+		//example2
+		int[] num= {1,2,3,4,5,6};
+		for(int n : num) {
+		  System.out.println(n);
+		}
+	}
+*/
